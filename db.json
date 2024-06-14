@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "email": u1@gmail.com,
       "password": "user1"
@@ -20,8 +19,4 @@
       "email": u4@gmail.com,
       "password": "user5"
     }
-  ],
-  "profile": {
-    "name": "Credentials"
-  }
-}
+]
