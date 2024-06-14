@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "email": u1@gmail.com,
+      "password": "user1"
+    },
+    {
+      "email": u2@gmail.com,
+      "password": "user2"
+    },
+    {
+      "email": u3@gmail.com,
+      "password": "user3"
+    },
+    {
+      "email": u4@gmail.com,
+      "password": "user4"
+    },
+    {
+      "email": u4@gmail.com,
+      "password": "user5"
+    }
+  ],
+  "profile": {
+    "name": "Credentials"
+  }
+}
